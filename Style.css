@@ -1,0 +1,9 @@
+.layer1 {
+    background-color: #D36037; 
+    display:block;height:38px;width:350px;
+  }
+  .layer2 {
+    margin-left: 20%; 
+    background-color: #ccc; 
+    padding: 10px; 
+  }
